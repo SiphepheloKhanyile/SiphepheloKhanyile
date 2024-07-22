@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siphephelo Khanyile</h1>
-<h3 align="center">A FullStack Software Engineer from South Africa currently on a perpetual learning journey, passionate about Coding, Tech and everything in between.</h3>
+<h3 align="center">A FullStack Software Engineer| Backend Speciliazation currently on a perpetual learning journey, passionate about turning concepts into Bytes, Science and everything in between.</h3>
 
 <p align="left"> <a href="https://twitter.com/siphephelokhany" target="blank"><img src="https://img.shields.io/twitter/follow/siphephelokhany?logo=twitter&style=for-the-badge" alt="siphephelokhany" /></a> </p>
 
